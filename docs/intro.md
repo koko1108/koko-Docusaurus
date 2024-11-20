@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+slug: /
+title: Welcome
 ---
 
 # 👋 嗨，大家好！
